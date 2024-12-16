@@ -17,3 +17,8 @@
 5. Tranzaksiya qo'shilgandan keyin sizga categorilar bo'yicha chart ochiladi, bu chartda qaysi categoriyaga umumiy qanncha pul sarflanayotganligi hizoblab chiqarilgan
 
 6. Tranzaksiyaga qo`shilgan valyutalarning kurslari qo'shilgan tranzaksiyada bor valyuta kursi 1 dollori qanchaligini ko'rsatib turadi
+
+# Qo'shimcha sharh
+
+7. Muammo uncha ko'p bolmadi lekin men UI bilan ko'p shug'ullana olmadim, o'ylashimcha hamma funksiyalarni qo'shdim.
+   Bu proektni ant design va tailwand css orqali bitta tizim qilib qilsa bo'ladi, tezlik va UI bo'yicha ancha qulay bu texnalogiyalar
