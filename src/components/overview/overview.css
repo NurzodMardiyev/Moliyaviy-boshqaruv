@@ -1,0 +1,13 @@
+.allBalance {
+  width: 300px;
+  background-color: #0dcaf09b;
+}
+.balance-box {
+  width: 900px;
+}
+@media screen and (max-width: 787px) { 
+  .overview {
+    overflow-x: scroll;
+  }
+  
+}

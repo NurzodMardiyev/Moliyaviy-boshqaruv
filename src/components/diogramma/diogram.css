@@ -1,0 +1,14 @@
+.chiz {
+  width: 60%;
+  height: 2px;
+  background-color: #333;
+  display: block;
+}
+@media screen and (max-width: 787px) {
+  .chart, .valyutaKursi {
+    width: 100% !important;
+  }
+  .container {
+    flex-direction: column;
+  }
+}

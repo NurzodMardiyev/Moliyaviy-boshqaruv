@@ -1,0 +1,36 @@
+.card {
+  width: 300px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  background-color: #b0ffff;
+}
+.balances > .card:nth-child(2) {
+  background-color: #ffadadaf;
+}
+.balances > .card:nth-child(3) {
+  background-color: #adffc1af;
+} 
+.transition {
+  border-radius: 20px;
+}
+.daromad {
+  background-color: #d1ffd162; 
+  border: 1px solid green
+
+}
+.xarajat {
+  background-color: #ffd9d162; 
+  border: 1px solid red
+
+}
+.search {
+  width: 500px;
+}
+@media screen and (max-width: 787px) {
+  .transac {
+    flex-direction: column;
+  }
+  .search {
+    width: 200px;
+  }
+}
