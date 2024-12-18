@@ -1,7 +1,7 @@
 import { useMutation, useQueryClient } from "react-query";
 import { money } from "../../feature/queries";
 import { useContext, useEffect, useState } from "react";
-import { contextsTransaction } from "../../context/ContextApi";
+import { contextsTransaction } from "../../context/ContextApi.jsx";
 export default function ChangeValyuta() {
   const queryClient = useQueryClient();
   const { valyutes, setValyutes } = useContext(contextsTransaction);

@@ -1,7 +1,7 @@
 import { useForm } from "react-hook-form";
 import "./tranzaksiya.css";
 import { useContext, useEffect, useState } from "react";
-import { contextsTransaction } from "../../context/ContextApi";
+import { contextsTransaction } from "../../context/ContextApi.jsx";
 import { IoMdSearch } from "react-icons/io";
 import AOS from "aos";
 import "aos/dist/aos.css";
